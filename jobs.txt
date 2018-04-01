@@ -1,4 +1,8 @@
 developer
 job from githubbbbbbbbbbbbbbbbbbbbbbbbbbb
+<<<<<<< HEAD
 
 hi its local
+=======
+salam git again
+>>>>>>> e39da101dcdbd890a19440485a171bf779ea080c
